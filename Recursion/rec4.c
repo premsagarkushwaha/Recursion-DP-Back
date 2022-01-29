@@ -14,6 +14,7 @@ void cal(int c, int n, int t)
 	}
 	
 }
+//
 int main()
 {
   int n=13;
