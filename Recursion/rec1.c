@@ -2,6 +2,7 @@
 
 
 // solution---------------------------------------------------------------
+// this first recursion for practice
 
 #include<stdio.h>
 
