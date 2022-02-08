@@ -3,7 +3,9 @@ Test Data :
 Input any number to find sum of digits: 25
 Expected Output :
 
-The Sum of digits of 25 = 7 */
+The Sum of digits of 25 = 7 *
+
+this is 6 program/
 
 #include<stdio.h>
 
