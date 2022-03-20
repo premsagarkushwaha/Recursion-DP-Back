@@ -1,4 +1,6 @@
-/* Write a program in C to count the digits of a given number using recursion. Go to the editor
+/* 
+update
+Write a program in C to count the digits of a given number using recursion. Go to the editor
 Test Data :
 Input a number : 50
 Expected Output :
