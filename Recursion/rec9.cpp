@@ -3,7 +3,8 @@ Test Data :
 Input a number : 5
 Expected Output :
 
-The Factorial of 5 is : 120*/
+The Factorial of 5 is : 120*
+update /
 
 #include<iostream>
 using namespace std;
